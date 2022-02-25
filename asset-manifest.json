@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Proyecto-Clima/static/css/main.03e7d47a.css",
+    "main.js": "/Proyecto-Clima/static/js/main.072cb846.js",
+    "static/js/787.01f48bee.chunk.js": "/Proyecto-Clima/static/js/787.01f48bee.chunk.js",
+    "index.html": "/Proyecto-Clima/index.html",
+    "main.03e7d47a.css.map": "/Proyecto-Clima/static/css/main.03e7d47a.css.map",
+    "main.072cb846.js.map": "/Proyecto-Clima/static/js/main.072cb846.js.map",
+    "787.01f48bee.chunk.js.map": "/Proyecto-Clima/static/js/787.01f48bee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e7d47a.css",
+    "static/js/main.072cb846.js"
+  ]
+}
